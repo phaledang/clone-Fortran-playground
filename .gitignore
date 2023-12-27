@@ -1,1 +1,8 @@
 frontend/node_modules
+backend/fpm.toml.tar
+backend/main.f90
+backend/main.f90.tar
+backend/Pipfile.lock
+backend/program_input.txt
+backend/program_input.txt.tar
+frontend/package-lock.json
